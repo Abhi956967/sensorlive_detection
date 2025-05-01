@@ -1,2 +1,2 @@
-TRAINING_BUCKET_NAME = "mlops-training-bucket"
-PREDICTION_BUCKET_NAME = "mlops-prediction-bucket"
+TRAINING_BUCKET_NAME = "sensor-my-bucket"
+PREDICTION_BUCKET_NAME = "sensor-prediction-bucket"
